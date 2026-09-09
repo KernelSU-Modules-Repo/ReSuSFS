@@ -1,7 +1,7 @@
 # ReSuSFS
 
 <p align="center">
-  <img src="docs/banner.png" alt="ReSuSFS Banner">
+  <img src="https://raw.githubusercontent.com/KernelSU-Modules-Repo/ReSuSFS/refs/heads/master/docs/banner.png" alt="ReSuSFS Banner">
 </p>
 
 [![Build Status](https://github.com/ahmed-alnassif/ReSuSFS/actions/workflows/release.yml/badge.svg)](https://github.com/ahmed-alnassif/ReSuSFS/actions/workflows/release.yml)
